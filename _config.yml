@@ -10,11 +10,11 @@ content: Una pequeña vista previa de mi vida social y escolar, bienvenidos/as.
 # Add your social links
 social:
   - platform: github
-    url: https://github.com/brianmaierjr
+    url: https://github.com/paulinarebolledo
   - platform: instagram
     url: https://www.instagram.com/rebolledopaulina_/
-  - platform: twitter
-    url: https://twitter.com/brianmaierjr
+  - platform: spotify
+    url: https://open.spotify.com/user/paulina_rebolledo1?si=366e4ccbe0bd4212
   - platform: linkedin
     url: brianmaierjr
 
