@@ -5,14 +5,14 @@ title: Paulina Rebolledo
 description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: Una pequeña vista previa de mi vida social y escolar, bienvenidos/as.
 
 # Add your social links
 social:
   - platform: github
     url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
+  - platform: instagram
+    url: https://www.instagram.com/rebolledopaulina_/
   - platform: twitter
     url: https://twitter.com/brianmaierjr
   - platform: linkedin
